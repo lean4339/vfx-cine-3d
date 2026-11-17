@@ -1,0 +1,4 @@
+interface:
+  display_name: "VFX, cine y animación 3D"
+  short_description: "VFX, animación y retoque facial con fuentes citadas"
+  default_prompt: "Usá $vfx-cine-3d para resolver este plano y citar los manuales aplicables."

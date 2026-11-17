@@ -1,0 +1,9 @@
+DOWNLOAD AND USAGE GUIDE
+
+1. Extract this ZIP into a folder. Keep SKILL.md and references together.
+2. Use your compatible AI agent's documented local skill installation/import flow.
+3. Give the agent only the permissions needed for your task.
+4. Read LICENSE or LICENSE.txt, NOTICE.txt and any marketplace terms.
+
+This is an instruction workflow, not a standalone application. External AI models,
+software and hosting are not included. Results can fail and need human review.

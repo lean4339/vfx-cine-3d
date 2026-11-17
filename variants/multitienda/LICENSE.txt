@@ -1,0 +1,22 @@
+USAGE LICENSE - Download edition
+Copyright (c) 2026 Leandro Ayala.
+
+The USD 25 one-time purchase grants the buyer a personal, non-exclusive,
+non-transferable license to use this skill with a compatible AI agent,
+under the selling platform's applicable Terms of Service. Ownership of the skill is not transferred.
+Use for the buyer's personal and commercial projects is permitted. Reselling,
+redistributing, or sublicensing the skill itself is not granted by this license.
+Third-party materials retain their own licenses. Rights granted by an existing
+open-source license are not withdrawn or restricted by this notice.
+
+The skill is experimental and provided as is, without a promise of accuracy,
+fitness for a particular purpose, uninterrupted availability or error-free operation,
+to the extent permitted by applicable law. It can fail and produce incorrect,
+incomplete or inappropriate outputs. Human review is required before relying on it.
+
+The selling platform's applicable purchase, delivery and refund terms and non-waivable consumer
+rights remain in force. This notice does not override them or create separate
+refund terms. AI models, external tools, compute, hosting and professional services
+are not included in the price. No service-level agreement is included.
+
+Purchase, delivery and refund terms: see the selling platform and your receipt.

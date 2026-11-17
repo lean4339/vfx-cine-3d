@@ -1,0 +1,12 @@
+WARNING / ADVERTENCIA
+This experimental AI-agent skill can fail, omit information, or produce incorrect
+or inappropriate results. Check outputs before acting. Results depend on the model,
+tools, permissions, input and environment. No accuracy or outcome is guaranteed.
+
+Esta skill experimental puede fallar, omitir informacion o producir resultados
+incorrectos o inadecuados. Verifica los resultados antes de actuar. Su funcionamiento
+depende del modelo, las herramientas, permisos, entradas y entorno. No garantiza
+exactitud ni un resultado determinado. Se conservan los derechos irrenunciables
+del consumidor y las condiciones aplicables de la plataforma de compra.
+
+This is an agent workflow skill, not a standalone video generator. Requires your footage, licensed assets and suitable production software. Rendering quality, tracking stability and completion time are not guaranteed.
