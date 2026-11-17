@@ -63,4 +63,4 @@ El README está disponible en inglés y español, como la documentación de Huel
 
 ## Origen y condiciones
 
-Preparado a partir de los archivos locales de skills de Leandro Ayala el 17/11/2026. Este README agrega documentación: no reemplaza las condiciones originales ni agrega una licencia. La publicación está pendiente.
+Preparado a partir de los archivos locales de skills de Leandro Ayala el 17/11/2026. Este README agrega documentación: no reemplaza las condiciones originales ni agrega una licencia.

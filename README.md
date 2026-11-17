@@ -63,4 +63,4 @@ The README is available in English and Spanish, matching Huella’s documentatio
 
 ## Source and terms
 
-Prepared from Leandro Ayala’s local skill files on 2026-11-17. This README adds documentation; it does not replace original terms or add a license. Publication is pending.
+Prepared from Leandro Ayala’s local skill files on 2026-11-17. This README adds documentation; it does not replace original terms or add a license.
